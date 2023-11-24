@@ -1,0 +1,30 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Sketch"
+    id="id-cb52e17165b04382b4f36174e601d858">
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="id-03517ebd17124041b0ba87fa2bba7203"
+      name="Actor">
+    <bounds
+        x="145"
+        y="230"
+        width="75"
+        height="100"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-501f86728e544ad48ad5f9db58fdb272"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="1">
+    <bounds
+        x="348"
+        y="245"
+        width="135"
+        height="70"/>
+  </children>
+</archimate:SketchModel>
